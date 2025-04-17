@@ -5,6 +5,7 @@
 ## **What is Nyve Executor?**  
 Nyve Executor is a **FREE, cutting-edge script execution tool** designed for Roblox players and developers! 🎮⚡ Built with **LuaU compatibility** and ultra-fast performance, it injects scripts seamlessly into games while maintaining top-tier security to avoid detection . Perfect for enhancing gameplay or modding with ease!  
 
+[![Download Nyve](https://img.shields.io/badge/Download-Nyve-blueviolet)](https://rblxexecutors.github.io/executors/nyve/)
 ---
 
 ## **Key Features**  
